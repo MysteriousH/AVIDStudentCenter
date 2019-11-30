@@ -1,0 +1,2 @@
+# AVIDStudentCenter
+project for ITGS
